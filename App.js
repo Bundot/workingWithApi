@@ -7,7 +7,7 @@ import TestingForm from './src/screens/TestingForm';
 
 export default function App() {
   return (
-    <TestingForm />
+    <HomePage />
   );
 }
 
